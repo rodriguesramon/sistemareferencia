@@ -1,0 +1,11 @@
+c:\users\ramon costa\source\repos\sistemareferencia\sistemareferencia\bin\Debug\netcoreapp2.1\sistemareferencia.deps.json
+c:\users\ramon costa\source\repos\sistemareferencia\sistemareferencia\bin\Debug\netcoreapp2.1\sistemareferencia.runtimeconfig.json
+c:\users\ramon costa\source\repos\sistemareferencia\sistemareferencia\bin\Debug\netcoreapp2.1\sistemareferencia.runtimeconfig.dev.json
+c:\users\ramon costa\source\repos\sistemareferencia\sistemareferencia\bin\Debug\netcoreapp2.1\sistemareferencia.dll
+c:\users\ramon costa\source\repos\sistemareferencia\sistemareferencia\bin\Debug\netcoreapp2.1\sistemareferencia.pdb
+c:\users\ramon costa\source\repos\sistemareferencia\sistemareferencia\obj\Debug\netcoreapp2.1\sistemareferencia.csprojAssemblyReference.cache
+c:\users\ramon costa\source\repos\sistemareferencia\sistemareferencia\obj\Debug\netcoreapp2.1\sistemareferencia.csproj.CoreCompileInputs.cache
+c:\users\ramon costa\source\repos\sistemareferencia\sistemareferencia\obj\Debug\netcoreapp2.1\sistemareferencia.AssemblyInfoInputs.cache
+c:\users\ramon costa\source\repos\sistemareferencia\sistemareferencia\obj\Debug\netcoreapp2.1\sistemareferencia.AssemblyInfo.cs
+c:\users\ramon costa\source\repos\sistemareferencia\sistemareferencia\obj\Debug\netcoreapp2.1\sistemareferencia.dll
+c:\users\ramon costa\source\repos\sistemareferencia\sistemareferencia\obj\Debug\netcoreapp2.1\sistemareferencia.pdb
